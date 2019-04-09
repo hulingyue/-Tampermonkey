@@ -8,6 +8,7 @@
 // @grant        none
 // ==/UserScript==
 
+
 (function() {
     'use strict';
     setInterval(function() { var saver = document.getElementsByClassName("ytp-ad-overlay-close-button");
